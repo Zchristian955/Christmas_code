@@ -1,2 +1,2 @@
 # Christmas_code
-![](Merry_Christmas.png)
+![](merry_christmas.png)
